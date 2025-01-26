@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FastFood.Models
 {
-    internal class OrderHeader
+    public class OrderHeader
     {
         public int Id { get; set; }
         public string ApplicationUserId { get; set; }

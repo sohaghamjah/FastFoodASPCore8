@@ -4,14 +4,14 @@
     "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj": {}
   },
   "projects": {
-    "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj": {
+    "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\FastFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj",
-        "projectName": "FastFoodASPCore8",
-        "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj",
+        "projectUniqueName": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\FastFood.Models.csproj",
+        "projectName": "FastFood.Models",
+        "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\FastFood.Models.csproj",
         "packagesPath": "C:\\Users\\sohag.miah\\.nuget\\packages\\",
-        "outputPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\obj\\",
+        "outputPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sohag.miah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,158 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\FastFood.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\FastFood.Repository.csproj",
+        "projectName": "FastFood.Repository",
+        "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\FastFood.Repository.csproj",
+        "packagesPath": "C:\\Users\\sohag.miah\\.nuget\\packages\\",
+        "outputPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohag.miah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Models\\FastFood.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj",
+        "projectName": "FastFoodASPCore8",
+        "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\FastFoodASPCore8.csproj",
+        "packagesPath": "C:\\Users\\sohag.miah\\.nuget\\packages\\",
+        "outputPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFoodASPCore8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sohag.miah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\FastFood.Repository.csproj": {
+                "projectPath": "C:\\Dot Net Core\\FastFoodASPCore8\\FastFood.Repository\\FastFood.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

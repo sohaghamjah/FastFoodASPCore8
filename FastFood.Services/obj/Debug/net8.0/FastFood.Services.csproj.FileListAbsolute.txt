@@ -1,0 +1,12 @@
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\bin\Debug\net8.0\FastFood.Services.deps.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\bin\Debug\net8.0\FastFood.Services.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\bin\Debug\net8.0\FastFood.Services.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.AssemblyInfoInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.AssemblyInfo.cs
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.csproj.CoreCompileInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.sourcelink.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\refint\FastFood.Services.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\FastFood.Services.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Services\obj\Debug\net8.0\ref\FastFood.Services.dll

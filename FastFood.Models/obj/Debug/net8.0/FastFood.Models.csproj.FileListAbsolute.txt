@@ -1,0 +1,13 @@
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\bin\Debug\net8.0\FastFood.Models.deps.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\bin\Debug\net8.0\FastFood.Models.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\bin\Debug\net8.0\FastFood.Models.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.csproj.AssemblyReference.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.AssemblyInfoInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.AssemblyInfo.cs
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.csproj.CoreCompileInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.sourcelink.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\refint\FastFood.Models.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\FastFood.Models.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Models\obj\Debug\net8.0\ref\FastFood.Models.dll

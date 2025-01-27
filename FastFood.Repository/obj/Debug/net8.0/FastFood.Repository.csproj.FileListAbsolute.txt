@@ -1,0 +1,16 @@
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.deps.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\bin\Debug\net8.0\FastFood.Repository.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\bin\Debug\net8.0\FastFood.Models.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.AssemblyReference.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfoInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.AssemblyInfo.cs
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.csproj.CoreCompileInputs.cache
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.sourcelink.json
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.46B052DB.Up2Date
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\refint\FastFood.Repository.dll
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\FastFood.Repository.pdb
+C:\Dot Net Core\FastFoodASPCore8\FastFood.Repository\obj\Debug\net8.0\ref\FastFood.Repository.dll
